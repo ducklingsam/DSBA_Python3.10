@@ -1,5 +1,6 @@
 # DSBA_Python3.10
 This is 2nd year DSBA Project on topic "Developing Learning Materials for Python" prepared by Bozhenov Oleg Group БПАД211 
+
 06.09.2023
 
 ## Curriculum
