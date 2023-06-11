@@ -12,9 +12,9 @@ This is 2nd year DSBA Project on topic "Developing Learning Materials for Python
 
 4th week) Lesson 4. Loops & Functions
 
-5-6th week) Recap 1
+5th week) Lesson 5. File I/O
 
-7th week) Lesson 5. File I/O
+6-7th week) Recap 1
 
 8th week) Lesson 6. Lambda Functions and One-Row Coding
 
